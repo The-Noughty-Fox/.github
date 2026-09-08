@@ -47,8 +47,13 @@ We've shipped production-grade CV pipelines, real-time AR features, and 3D spati
 
 We take on projects where precision matters — CV pipelines that actually run on device, AR features that don't break in the field, scanning tools that produce usable output.
 
-Reach out: **hello@thenoughtyfox.com**
+| | |
+|---|---|
+| **Alex Culeva** — Co-founder & CEO | alex@thenoughtyfox.com |
+| **Victor Lisnic** — Co-founder & CTO | victor@thenoughtyfox.com |
+| **Victor Marchitan** — Strategic Partnerships | victor.marchitan@thenoughtyfox.com |
+| **General inquiries** | hello@thenoughtyfox.com |
 
 ---
 
-<sub>Moldova · Est. 2020 · Mobile CV · AR · Spatial</sub>
+<sub>Moldova · Est. 2022 · Mobile CV · AR · Spatial</sub>
