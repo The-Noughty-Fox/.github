@@ -36,6 +36,9 @@ We've shipped production-grade CV pipelines, real-time AR features, and 3D spati
 ![ARKit](https://img.shields.io/badge/ARKit-000000?style=flat-square&logo=apple&logoColor=white)
 ![ARCore](https://img.shields.io/badge/ARCore-4285F4?style=flat-square&logo=google&logoColor=white)
 ![LiDAR](https://img.shields.io/badge/LiDAR-4B4B4B?style=flat-square)
+![Gaussian Splatting](https://img.shields.io/badge/Gaussian%20Splatting-4B4B4B?style=flat-square)
+![Point Cloud](https://img.shields.io/badge/Point%20Cloud-4B4B4B?style=flat-square)
+![COLMAP](https://img.shields.io/badge/COLMAP-4B4B4B?style=flat-square)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 
 #### Mobile
