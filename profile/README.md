@@ -31,6 +31,14 @@ We've shipped production-grade CV pipelines, real-time AR features, and 3D spati
 ![ARCore](https://img.shields.io/badge/ARCore-4285F4?style=flat-square&logo=google&logoColor=white)
 ![CoreML](https://img.shields.io/badge/Core%20ML-000000?style=flat-square&logo=apple&logoColor=white)
 ![TensorFlow Lite](https://img.shields.io/badge/TFLite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111111?style=flat-square)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![Vision Framework](https://img.shields.io/badge/Vision%20Framework-000000?style=flat-square&logo=apple&logoColor=white)
+![BLE](https://img.shields.io/badge/BLE-0082FC?style=flat-square&logo=bluetooth&logoColor=white)
+![LiDAR](https://img.shields.io/badge/LiDAR-4B4B4B?style=flat-square)
+![Camera](https://img.shields.io/badge/Camera-4B4B4B?style=flat-square)
 
 ---
 
