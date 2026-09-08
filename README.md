@@ -36,9 +36,9 @@ We've shipped production-grade CV pipelines, real-time AR features, and 3D spati
 ## Where to find us
 
 [![Website](https://img.shields.io/badge/Website-thenoughtyfox.com-000000?style=flat-square)](https://thenoughtyfox.com)
-[![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com)
-[![Clutch](https://img.shields.io/badge/Clutch-Reviewed-E31B23?style=flat-square)](https://clutch.co)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-The%20Noughty%20Fox-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/company/the-noughty-fox)
+[![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/agencies/thenoughtyfox/)
+[![Clutch](https://img.shields.io/badge/Clutch-Reviewed-E31B23?style=flat-square)](https://clutch.co/profile/noughty-fox)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-The%20Noughty%20Fox-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/thenoughtyfox/)
 
 ---
 
